@@ -1,11 +1,3 @@
-# Hi there, I'm Trần Huỳnh Ngọc Diệp! 👋
-
-🎓I am a student in Information Technology, majoring in **Software Engineering** from University of Science, Vietnam National University Ho Chi Minh City. <br>
-💻 Passionate about **Machine Learning**, **Deep Learning**, and **AI Engineering**  
-🚀 Currently exploring **Reinforcement Learning** and **Stock Market Prediction**
-
-![Diep Tran's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thnDiep&show_icons=true&theme=transparent&hide=contribs,prs,issues)
-
 <a href="https://github.com/thnDiep/graduation-thesis">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thnDiep&repo=graduation-thesis&theme=great-gatsby"/>
 </a>
